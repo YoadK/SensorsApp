@@ -10,6 +10,5 @@
         androclass:layout_alignParentStart="true"
         androclass:layout_alignParentTop="true"
         androclass:layout_marginStart="92dp"
-        androclass:layout_marginTop="114dp"
-        androclass:text="TextView" />
+        androclass:layout_marginTop="114dp" />
 </RelativeLayout>
